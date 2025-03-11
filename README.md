@@ -1,5 +1,7 @@
 <h1 align="center"> Alura Challenge: Friend Secret </h1>
-##Descripción:
+
+## Descripción:
+
 Aplicar los primeros conocimiento adquiridos sobre JS correspondiendo: 
 - Variables
 - Funciones
@@ -8,10 +10,10 @@ Aplicar los primeros conocimiento adquiridos sobre JS correspondiendo:
 - Arrays (listas) 
 - Generación de valor aleatorio
 
-##Proposito:
+## Proposito:
 - Crear un juego que a medida que tú ingreses nombres de tus amigos, puedas finalizando esta lista, sortear uno de ellos.
 
-##Mejoras:
+## Mejoras:
 - Evitar ciertos caracteres especiales
 - Unir parejas y descartar inmediatamente estas.
-- Nota: se irá mejorando a medida que se adquiera mayor conocimiento en el lenguaje
+- Nota: se irá mejorando a medida que se adquiera mayor conocimiento en la lógica y el lenguaje.
